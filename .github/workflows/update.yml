@@ -9,11 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Install Python 3
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
-        python-version: 3.8
+        python-version: 3.9
     - run: curl -s -L ${{secrets.UPDATER}} -o updater.py
     - run: curl -s -L ${{secrets.TXT1}} -o txt1.txt
     - run: curl -s -L ${{secrets.TXT2}} -o txt2.txt
