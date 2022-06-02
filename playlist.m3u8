@@ -6,9 +6,6 @@ https://streaming.mytvback.com:443/stream/nMvGS3A9tJkF78PK_ErjIQ/1654223672/chan
 #EXTINF:-1 tvg-name="M2 / Petőfi HD" tvg-id="5902-m2/petofitv" tvg-logo="http://onlinestream.live/logos/5902.png" catchup="vod",M2 / Petőfi TV
 https://streaming.mytvback.com:443/stream/hs3FspcTp-Ykw_AESgXOjw/1654223660/channel002/stream.m3u8
 
-#EXTINF:-1 tvg-name="M3" tvg-id="5931-m3" tvg-logo="http://onlinestream.live/logos/5931.png" catchup="vod",M3
-https://player.mediaklikk.gq:443/m3/00gMyETNxIjM.m3u8
-
 #EXTINF:-1 tvg-name="M4 Sport HD" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" catchup="vod",M4 Sport
 https://streaming.mytvback.com:443/stream/MD_0nyLodbax5xXGkwxkFQ/1654223666/channel005/stream.m3u8
 
