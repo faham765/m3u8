@@ -7,7 +7,7 @@ https://streaming.mytvback.com:443/stream/7VVkS_GhwBXYEPkzANeJTA/1654355473/chan
 https://streaming.mytvback.com:443/stream/l460VntKFKCLeeKc-Gs5RQ/1654355485/channel002/stream.m3u8
 
 #EXTINF:-1 tvg-name="M3" tvg-id="5931-m3" tvg-logo="http://onlinestream.live/logos/5931.png" catchup="vod",M3
-https://player.mediaklikk.gq:443/m3/00gMyETNwEDN.m3u8
+https://player.mediaklikk.gq:443/m3/00gMyETNxEDN.m3u8
 
 #EXTINF:-1 tvg-name="M4 Sport HD" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" catchup="vod",M4 Sport
 https://streaming.mytvback.com:443/stream/gFnmFBLs0UZZFleDmJYdMw/1654355498/channel005/stream.m3u8
@@ -52,16 +52,13 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.gq:443/hirtv/00gMyETNwEDN.m3u8
+https://player.mediaklikk.gq:443/hirtv/00gMyETNxEDN.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
 http://152.66.115.226:33390/bysid/204
 
 #EXTINF:-1 tvg-name="Life TV" tvg-id="6603-lifetv" tvg-logo="http://onlinestream.live/logos/6603.png" catchup="vod",LifeTv
 https://streaming.mytvback.com:443/stream/eeyNdH5NWt0VzYGMDuKj1w/1654355510/channel043/stream.m3u8
-
-#EXTINF:-1 tvg-name="Fix TV" tvg-id="1833-fixtv" tvg-logo="http://onlinestream.live/logos/1833.png" catchup="vod",Fix
-rtmp://fixhd.tv:1935/fix/1080i
 
 #EXTINF:-1 tvg-name="HBO2" tvg-id="7158-hbo2" tvg-logo="http://onlinestream.live/logos/7158.png" catchup="vod",HBO2
 http://92.240.234.211:4516/
@@ -102,9 +99,6 @@ http://77.89.204.105:8003/play/a00v/index.m3u8
 #EXTINF:-1 tvg-name="Classics TV" tvg-id="7242-classicstv" tvg-logo="http://onlinestream.live/logos/7242.png" catchup="vod",Classics TV
 https://s03.diazol.hu:7152/hls/live.m3u8
 
-#EXTINF:-1 tvg-name="EWTN" tvg-id="4798-ewtn" tvg-logo="http://onlinestream.live/logos/4798.png" catchup="vod",EWTN
-https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8
-
 #EXTINF:-1 tvg-name="Balaton TV" tvg-id="5913-balatontv" tvg-logo="http://onlinestream.live/logos/5913.png" catchup="vod",Balaton TV
 https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 
@@ -117,228 +111,24 @@ http://hitmusic.hu:80/hitmusic.m3u8
 #EXTINF:-1 tvg-name="Muzsika TV" tvg-id="6151-muzsikatv" tvg-logo="http://onlinestream.live/logos/6151.png" catchup="vod",Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
 
-#EXTINF:-1 tvg-name="Főnix TV" tvg-id="6171-fonixtv" tvg-logo="http://onlinestream.live/logos/6171.png" catchup="vod",Főnix TV
-https://stream.streaming4u.hu:443/FonixTV/index.m3u8
-
 #EXTINF:-1 tvg-name="Music Channel" tvg-id="5646-musicchannel" tvg-logo="http://onlinestream.live/logos/5646.png" catchup="vod",Music Channel
 http://1music.hu:80/1music.m3u8
-
-#EXTINF:-1 tvg-name="Líceum TV" tvg-id="5026-liceumtv" tvg-logo="http://onlinestream.live/logos/5026.png" catchup="vod",Líceum TV
-http://193.225.32.62:8890/live.m3u8
-
-#EXTINF:-1 tvg-name="Gyöngyösi TV" tvg-id="1821-gyongyositv" tvg-logo="http://onlinestream.live/logos/1821.png" catchup="vod",Gyöngyösi TV
-https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kapos TV" tvg-id="5137-kapostv" tvg-logo="http://onlinestream.live/logos/5137.png" catchup="vod",Kapos TV
-https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Debrecen Televízió" tvg-id="4247-debrecentelevizio" tvg-logo="http://onlinestream.live/logos/4247.png" catchup="vod",Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 
-#EXTINF:-1 tvg-name="Szolnok TV" tvg-id="4788-szolnoktv" tvg-logo="http://onlinestream.live/logos/4788.png" catchup="vod",Szolnok TV
-https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Budapest Európa Televízió" tvg-id="1819-budapesteuropatelevizio" tvg-logo="http://onlinestream.live/logos/1819.png" catchup="vod",Budapest Európa Televízió
-https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="7.tv" tvg-id="5425-7.tv" tvg-logo="http://onlinestream.live/logos/5425.png" catchup="vod",7.tv
-https://stream.y5.hu:443/stream/stream_bekescsaba/stream.m3u8
-
 #EXTINF:-1 tvg-name="Miskolc TV" tvg-id="3270-miskolctv" tvg-logo="http://onlinestream.live/logos/3270.png" catchup="vod",Miskolc TV
 http://195.56.44.163:1935/live/mitv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kecskeméti Televízió" tvg-id="1901-kecskemetitelevizio" tvg-logo="http://onlinestream.live/logos/1901.png" catchup="vod",Kecskeméti Televízió
-https://eurobioinvest.hu:444/live/ktv.m3u8
-
-#EXTINF:-1 tvg-name="VTV Füzesabony" tvg-id="5852-vtvfuzesabony" tvg-logo="http://onlinestream.live/logos/5852.png" catchup="vod",VTV Füzesabony
-https://stream.nmih.hu:7962/live.m3u8
-
-#EXTINF:-1 tvg-name="Fehérvár TV" tvg-id="1815-fehervartv" tvg-logo="http://onlinestream.live/logos/1815.png" catchup="vod",Fehérvár TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Zalaegerszegi Televízió" tvg-id="1829-zalaegerszegitelevizio" tvg-logo="http://onlinestream.live/logos/1829.png" catchup="vod",Zalaegerszegi Televízió
-https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Tisza TV" tvg-id="1835-tiszatv" tvg-logo="http://onlinestream.live/logos/1835.png" catchup="vod",Tisza TV
-https://www.tiszatv.hu:443/onlinetv/tiszatv_1.m3u8
-
-#EXTINF:-1 tvg-name="Pannon RTV" tvg-id="4695-pannonrtv" tvg-logo="http://onlinestream.live/logos/4695.png" catchup="vod",Pannon RTV
-https://stream2.nmih.hu:4102/live.m3u8
-
-#EXTINF:-1 tvg-name="Kölcsey Televízió" tvg-id="5001-kolcseytelevizio" tvg-logo="http://onlinestream.live/logos/5001.png" catchup="vod",Kölcsey Televízió
-https://stream.tamanet.hu:443/stream.m3u8
-
-#EXTINF:-1 tvg-name="Tatai TV" tvg-id="5019-tataitv" tvg-logo="http://onlinestream.live/logos/5019.png" catchup="vod",Tatai TV
-https://cloudfront63.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Makó TV" tvg-id="5317-makotv" tvg-logo="http://onlinestream.live/logos/5317.png" catchup="vod",Makó TV
-http://makomedia.mikrohalo.hu:80/hls/makotv.m3u8
-
-#EXTINF:-1 tvg-name="Óbuda TV" tvg-id="6172-obudatv" tvg-logo="http://onlinestream.live/logos/6172.png" catchup="vod",Óbuda TV
-https://stream.streaming4u.hu:443/ObudaTV/index.m3u8
-
-#EXTINF:-1 tvg-name="Bicskei Városi Televízió" tvg-id="7371-bicskeivarositelevizio" tvg-logo="http://onlinestream.live/logos/7371.png" catchup="vod",Bicskei Városi Televízió
-https://cloudfront63.lexanetwork.com:1344/relay02/livestream003.sdp/chunks.m3u8
-
-#EXTINF:-1 tvg-name="16tv Budapest" tvg-id="6356-16tvbudapest" tvg-logo="http://onlinestream.live/logos/6356.png" catchup="vod",16tv Budapest
-https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mezőkövesdi Televízió" tvg-id="6328-mezokovesditelevizio" tvg-logo="http://onlinestream.live/logos/6328.png" catchup="vod",Mezőkövesdi Televízió
-https://cloudfront41.lexanetwork.com:1540/HDE019.webm
-
-#EXTINF:-1 tvg-name="ESTV" tvg-id="6144-estv" tvg-logo="http://onlinestream.live/logos/6144.png" catchup="vod",ESTV
-https://cloudfront63.lexanetwork.com:1540/HDE032.webm
-
-#EXTINF:-1 tvg-name="Lóverseny közvetítés" tvg-id="5939-loversenykozvetites" tvg-logo="http://onlinestream.live/logos/5939.png" catchup="vod",Lóverseny közvetítés
-http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Móri Városi TV" tvg-id="4650-morivarositv" tvg-logo="http://onlinestream.live/logos/4650.png" catchup="vod",Móri Városi TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Komáromi Televízió" tvg-id="4590-komaromitelevizio" tvg-logo="http://onlinestream.live/logos/4590.png" catchup="vod",Komáromi Televízió
-https://cloudfront63.lexanetwork.com:1540/HDE017.webm
-
-#EXTINF:-1 tvg-name="Zugló TV" tvg-id="1818-zuglotv" tvg-logo="http://onlinestream.live/logos/1818.png" catchup="vod",Zugló TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV Keszthely" tvg-id="1812-tvkeszthely" tvg-logo="http://onlinestream.live/logos/1812.png" catchup="vod",TV Keszthely
-http://cloudfront41.lexanetwork.com:1630/HDE023.webm
-
-#EXTINF:-1 tvg-name="Kanizsa TV" tvg-id="1811-kanizsatv" tvg-logo="http://onlinestream.live/logos/1811.png" catchup="vod",Kanizsa TV
-https://91.82.85.44:1540/HDE024.webm
-
-#EXTINF:-1 tvg-name="TV Eger" tvg-id="1035-tveger" tvg-logo="http://onlinestream.live/logos/1035.png" catchup="vod",TV Eger
-http://stream.tveger.hu:8010/hls/live.m3u8
-
-#EXTINF:-1 tvg-name="City TV" tvg-id="1802-citytv" tvg-logo="http://onlinestream.live/logos/1802.png" catchup="vod",City TV
-https://citytv.hu:443/media/live/stream.m3u8
-
-#EXTINF:-1 tvg-name="Rákosmente TV" tvg-id="1809-rakosmentetv" tvg-logo="http://onlinestream.live/logos/1809.png" catchup="vod",Rákosmente TV
-http://rakosmentetv.hu:8080/hls/rmtv.m3u8
-
-#EXTINF:-1 tvg-name="Putnok Városi Televízió" tvg-id="1824-putnokvarositelevizio" tvg-logo="http://onlinestream.live/logos/1824.png" catchup="vod",Putnok Városi Televízió
-http://cloudfront44.lexanetwork.com:1730/hlsrelay010/hls/livestream.sdp.m3u8
-
-#EXTINF:-1 tvg-name="Bajai TV" tvg-id="3858-bajaitv" tvg-logo="http://onlinestream.live/logos/3858.png" catchup="vod",Bajai TV
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hegyvidék TV" tvg-id="4592-hegyvidektv" tvg-logo="http://onlinestream.live/logos/4592.png" catchup="vod",Hegyvidék TV
-https://tv.hegyvidek.hu:443/hvtv/hvstream.m3u8
-
-#EXTINF:-1 tvg-name="Rábaközi Televízió" tvg-id="4660-rabakozitelevizio" tvg-logo="http://onlinestream.live/logos/4660.png" catchup="vod",Rábaközi Televízió
-http://79.120.178.90:1935/csornatv/tvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Karcag TV" tvg-id="4662-karcagtv" tvg-logo="http://onlinestream.live/logos/4662.png" catchup="vod",Karcag TV
-https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BTKT TV" tvg-id="4696-btkttv" tvg-logo="http://onlinestream.live/logos/4696.png" catchup="vod",BTKT TV
-https://5cd03f21c7193.streamlock.net:443/btkt/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Halom TV" tvg-id="4699-halomtv" tvg-logo="http://onlinestream.live/logos/4699.png" catchup="vod",Halom TV
-http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
-
-#EXTINF:-1 tvg-name="Williams TV" tvg-id="4782-williamstv" tvg-logo="http://onlinestream.live/logos/4782.png" catchup="vod",Williams TV
-http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="XVTV" tvg-id="4792-xvtv" tvg-logo="http://onlinestream.live/logos/4792.png" catchup="vod",XVTV
-https://cloudfront63.lexanetwork.com:1344/livecaster79341q3/liverelay001.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Jászsági Térségi TV" tvg-id="4794-jaszsagitersegitv" tvg-logo="http://onlinestream.live/logos/4794.png" catchup="vod",Jászsági Térségi TV
-https://cloudfront63.lexanetwork.com:1344/relay02/livestream002.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Light Channel TV" tvg-id="4802-lightchanneltv" tvg-logo="http://onlinestream.live/logos/4802.png" catchup="vod",Light Channel TV
-http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hatoscsatorna" tvg-id="4874-hatoscsatorna" tvg-logo="http://onlinestream.live/logos/4874.png" catchup="vod",Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTV 2" tvg-id="5313-rtv2" tvg-logo="http://onlinestream.live/logos/5313.png" catchup="vod",RTV 2
-http://212.200.255.151:80/rtv2
-
 #EXTINF:-1 tvg-name="Vásárhelyi Televízió" tvg-id="5656-vasarhelyitelevizio" tvg-logo="http://onlinestream.live/logos/5656.png" catchup="vod",Vásárhelyi Televízió
 https://stream.vasarhelyitelevizio.hu:443/stream/stream.m3u8
-
-#EXTINF:-1 tvg-name="TV Szentendre" tvg-id="5837-tvszentendre" tvg-logo="http://onlinestream.live/logos/5837.png" catchup="vod",TV Szentendre
-https://stream.streaming4u.hu:443/TVSzentendre/index.m3u8
-
-#EXTINF:-1 tvg-name="TelePaks" tvg-id="5838-telepaks" tvg-logo="http://onlinestream.live/logos/5838.png" catchup="vod",TelePaks
-https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV Budakalász" tvg-id="5876-tvbudakalasz" tvg-logo="http://onlinestream.live/logos/5876.png" catchup="vod",TV Budakalász
-https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
-
-#EXTINF:-1 tvg-name="Apostol TV" tvg-id="5927-apostoltv" tvg-logo="http://onlinestream.live/logos/5927.png" catchup="vod",Apostol TV
-http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Csurgó TV" tvg-id="6203-csurgotv" tvg-logo="http://onlinestream.live/logos/6203.png" catchup="vod",Csurgó TV
-https://5cd03f21c7193.streamlock.net:443/csurgotv/csurgolive/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Pilis TV" tvg-id="6283-pilistv" tvg-logo="http://onlinestream.live/logos/6283.png" catchup="vod",Pilis TV
-https://stream.streaming4u.hu:443/PilisTV/index.m3u8
-
-#EXTINF:-1 tvg-name="Globo TV" tvg-id="6294-globotv" tvg-logo="http://onlinestream.live/logos/6294.png" catchup="vod",Globo TV
-https://stream.streaming4u.hu:443/GloboTV/index.m3u8
-
-#EXTINF:-1 tvg-name="Szentes TV" tvg-id="6393-szentestv" tvg-logo="http://onlinestream.live/logos/6393.png" catchup="vod",Szentes TV
-http://85.90.176.40:8081/szentestv.f4v
-
-#EXTINF:-1 tvg-name="MusicPlus" tvg-id="6465-musicplus" tvg-logo="http://onlinestream.live/logos/6465.png" catchup="vod",MusicPlus
-https://s02.diazol.hu:10192/stream.m3u8
-
-#EXTINF:-1 tvg-name="RTVE" tvg-id="6466-rtve" tvg-logo="http://onlinestream.live/logos/6466.png" catchup="vod",RTVE
-http://79.120.178.90:1935/rtve/rtvelive/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV21 Ungvár" tvg-id="6467-tv21ungvar" tvg-logo="http://onlinestream.live/logos/6467.png" catchup="vod",TV21 Ungvár
-rtmp://213.174.8.15:1935/live/danio
-
-#EXTINF:-1 tvg-name="Szécsény TV" tvg-id="6470-szecsenytv" tvg-logo="http://onlinestream.live/logos/6470.png" catchup="vod",Szécsény TV
-https://iptv.eurocable.co.hu:443/EC-SZECSENYTVHD/index.m3u8
-
-#EXTINF:-1 tvg-name="Komlós TV" tvg-id="6495-komlostv" tvg-logo="http://onlinestream.live/logos/6495.png" catchup="vod",Komlós TV
-https://stream.streaming4u.hu:443/KomlosTV/index.m3u8
 
 #EXTINF:-1 tvg-name="MinDig TV Plusz Info" tvg-id="6504-mindigtvpluszinfo" tvg-logo="http://onlinestream.live/logos/6504.png" catchup="vod",MinDig TV Plusz Info
 http://152.66.115.226:33390/bysid/208
 
-#EXTINF:-1 tvg-name="Trimedio TV" tvg-id="6554-trimediotv" tvg-logo="http://onlinestream.live/logos/6554.png" catchup="vod",Trimedio TV
-https://stream.streaming4u.hu/TriMedioTV/index.m3u8
-
-#EXTINF:-1 tvg-name="T1 Televízió" tvg-id="6610-t1televizio" tvg-logo="http://onlinestream.live/logos/6610.png" catchup="vod",T1 Televízió
-http://91.82.85.41:1935/liverelay/filmtvlive.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Gólya TV" tvg-id="6626-golyatv" tvg-logo="http://onlinestream.live/logos/6626.png" catchup="vod",Gólya TV
-https://stream.streaming4u.hu:443/GolyaTV/index.m3u8
-
-#EXTINF:-1 tvg-name="RégióPlusz TV" tvg-id="6627-regioplusztv" tvg-logo="http://onlinestream.live/logos/6627.png" catchup="vod",RégióPlusz TV
-https://stream.streaming4u.hu:443/RegioPluszTV/index.m3u8
-
-#EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-id="6638-oroszlanyivarositelevizio" tvg-logo="http://onlinestream.live/logos/6638.png" catchup="vod",Oroszlányi Városi Televízió
-https://cloudfront63.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Daru TV" tvg-id="6675-darutv" tvg-logo="http://onlinestream.live/logos/6675.png" catchup="vod",Daru TV
-https://5cd03f21c7193.streamlock.net:443/darutv/darutvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Móra-Net TV" tvg-id="6676-mora-nettv" tvg-logo="http://onlinestream.live/logos/6676.png" catchup="vod",Móra-Net TV
-https://stream.moranettv.hu:443/live/index.m3u8
-
-#EXTINF:-1 tvg-name="Kiskőrös TV" tvg-id="6677-kiskorostv" tvg-logo="http://onlinestream.live/logos/6677.png" catchup="vod",Kiskőrös TV
-https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Régió TV" tvg-id="6725-regiotv" tvg-logo="http://onlinestream.live/logos/6725.png" catchup="vod",Régió TV
-http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
-
-#EXTINF:-1 tvg-name="Völgyhíd TV" tvg-id="6744-volgyhidtv" tvg-logo="http://onlinestream.live/logos/6744.png" catchup="vod",Völgyhíd TV
-https://5cd03f21c7193.streamlock.net:443/volgyhidtv/mediakft/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Berente TV" tvg-id="6790-berentetv" tvg-logo="http://onlinestream.live/logos/6790.png" catchup="vod",Berente TV
-https://stream.streaming4u.hu:443/BerenteTV/index.m3u8
-
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id="7567-bbcearth" tvg-logo="" catchup="vod",BBC Earth
 http://77.89.204.105:8003/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-name="Wsat" tvg-id="7729-wsat" tvg-logo="" catchup="vod",Wsat
-https://s14.ssl-stream.com:3922/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="Weekend TV" tvg-id="7741-weekendtv" tvg-logo="" catchup="vod",Weekend TV
-https://stream.streaming4u.hu/WeekendTV/index.m3u8
 
