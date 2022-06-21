@@ -21,9 +21,6 @@ http://152.66.115.226:33391/bysid/103
 #EXTINF:-1 tvg-name="TV2 HD" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" catchup="vod",TV2
 http://152.66.115.226:33390/bysid/202
 
-#EXTINF:-1 tvg-name="FEM3" tvg-id="6455-fem3" tvg-logo="http://onlinestream.live/logos/6455.png" catchup="vod",FEM3
-http://176.120.107.196:7865/play/a02r
-
 #EXTINF:-1 tvg-name="RTL Klub HD" tvg-id="6141-rtlklub" tvg-logo="http://onlinestream.live/logos/6141.png" catchup="vod",RTL Klub
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 
@@ -49,10 +46,10 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.gq:443/hirtv_delayed/0IjMxUTNxAjM.m3u8
+https://player.mediaklikk.gq:443/hirtv_delayed/0IjMxUTNxEjM.m3u8
 
 #EXTINF:-1 tvg-name="TV Paprika" tvg-id="6748-tvpaprika" tvg-logo="http://onlinestream.live/logos/6748.png" catchup="vod",TV Paprika
-http://176.120.107.196:7865/play/a021
+http://5.38.198.105:8001/play/a031
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
 http://213.81.201.113:8082/bysid/31223
@@ -61,28 +58,22 @@ http://213.81.201.113:8082/bysid/31223
 http://5.38.198.105:8001/play/a04c
 
 #EXTINF:-1 tvg-name="AMC HD" tvg-id="6652-amc" tvg-logo="http://onlinestream.live/logos/6652.png" catchup="vod",AMC
-http://176.120.107.196:7865/play/a00i
+http://5.38.198.105:8001/play/amc
 
 #EXTINF:-1 tvg-name="Mozi+ HD" tvg-id="6152-mozi+" tvg-logo="http://onlinestream.live/logos/6152.png" catchup="vod",Mozi+
-http://176.120.107.196:7865/play/a00m
-
-#EXTINF:-1 tvg-name="Digi Sport 1" tvg-id="6715-digisport1" tvg-logo="http://onlinestream.live/logos/6715.png" catchup="vod",Digi Sport 1
-http://176.120.107.196:7865/play/a006
-
-#EXTINF:-1 tvg-name="Digi Sport 2" tvg-id="6716-digisport2" tvg-logo="http://onlinestream.live/logos/6716.png" catchup="vod",Digi Sport 2
-http://176.120.107.196:7865/play/a00a
+http://5.38.198.105:8001/play/a04e
 
 #EXTINF:-1 tvg-name="Sport 1" tvg-id="6718-sport1" tvg-logo="http://onlinestream.live/logos/6718.png" catchup="vod",Sport 1
-http://176.120.107.196:7865/play/a022
+http://5.38.198.105:8001/play/a02o
 
 #EXTINF:-1 tvg-name="Sport 2" tvg-id="6719-sport2" tvg-logo="http://onlinestream.live/logos/6719.png" catchup="vod",Sport 2
-http://176.120.107.196:7865/play/a023
+http://5.38.198.105:8001/play/a02q
 
 #EXTINF:-1 tvg-name="HBO HD" tvg-id="7069-hbo" tvg-logo="http://onlinestream.live/logos/7069.png" catchup="vod",HBO
-http://176.120.107.196:7865/play/a025
+http://5.38.198.105:8001/play/hbohd
 
 #EXTINF:-1 tvg-name="HBO2" tvg-id="7158-hbo2" tvg-logo="http://onlinestream.live/logos/7158.png" catchup="vod",HBO2
-http://176.120.107.196:7865/play/a024
+http://5.38.198.105:8001/play/hbo2hd
 
 #EXTINF:-1 tvg-name="HBO3" tvg-id="7159-hbo3" tvg-logo="http://onlinestream.live/logos/7159.png" catchup="vod",HBO3
 http://5.38.198.105:8001/play/hbo3hd
@@ -94,16 +85,16 @@ http://5.38.198.105:8001/play/a03j
 http://5.38.198.105:8001/play/a026
 
 #EXTINF:-1 tvg-name="Super TV2 HD" tvg-id="6723-supertv2" tvg-logo="http://onlinestream.live/logos/6723.png" catchup="vod",Super TV2
-http://176.120.107.196:7865/play/a01k
+http://5.38.198.105:8001/play/supertv2
 
 #EXTINF:-1 tvg-name="Jocky TV" tvg-id="6701-jockytv" tvg-logo="http://onlinestream.live/logos/6701.png" catchup="vod",Jocky TV
 http://5.38.198.105:8001/play/jocky
 
 #EXTINF:-1 tvg-name="TV4" tvg-id="6184-tv4" tvg-logo="http://onlinestream.live/logos/6184.png" catchup="vod",TV4
-http://176.120.107.196:7865/play/a00n
+http://5.38.198.105:8001/play/tv4
 
 #EXTINF:-1 tvg-name="Arena4" tvg-id="7084-arena4" tvg-logo="http://onlinestream.live/logos/7084.png" catchup="vod",Arena4
-http://176.120.107.196:7865/play/a034
+http://5.38.198.105:8001/play/a04i
 
 #EXTINF:-1 tvg-name="Prime" tvg-id="6704-prime" tvg-logo="http://onlinestream.live/logos/6704.png" catchup="vod",Prime
 http://5.38.198.105:8001/play/a046
@@ -112,13 +103,13 @@ http://5.38.198.105:8001/play/a046
 http://193.32.37.17:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-name="TV2 Kids" tvg-id="6707-tv2kids" tvg-logo="http://onlinestream.live/logos/6707.png" catchup="vod",TV2 Kids
-http://176.120.107.196:7865/play/a00s
+http://5.38.198.105:8001/play/tv2kids
 
 #EXTINF:-1 tvg-name="Moziverzum HD" tvg-id="6720-moziverzum" tvg-logo="http://onlinestream.live/logos/6720.png" catchup="vod",Moziverzum
 http://5.38.198.105:8001/play/a047
 
 #EXTINF:-1 tvg-name="Spektrum HD" tvg-id="6749-spektrum" tvg-logo="http://onlinestream.live/logos/6749.png" catchup="vod",Spektrum
-http://176.120.107.196:7865/play/a026
+http://5.38.198.105:8001/play/a04f
 
 #EXTINF:-1 tvg-name="Spektrum Home" tvg-id="6589-spektrumhome" tvg-logo="http://onlinestream.live/logos/6589.png" catchup="vod",Spektrum Home
 http://152.66.115.226:33390/bysid/207
@@ -127,28 +118,22 @@ http://152.66.115.226:33390/bysid/207
 http://5.38.198.105:8001/play/a02z
 
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id="6750-comedycentral" tvg-logo="http://onlinestream.live/logos/6750.png" catchup="vod",Comedy Central
-http://176.120.107.196:7865/play/a02f
+http://5.38.198.105:8001/play/a048
 
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-id="5936-nationalgeographic" tvg-logo="http://onlinestream.live/logos/5936.png" catchup="vod",National Geographic
-http://176.120.107.196:7865/play/a00h
+http://5.38.198.105:8001/play/a04b
 
 #EXTINF:-1 tvg-name="National Geographic Wild" tvg-id="5937-nationalgeographicwild" tvg-logo="http://onlinestream.live/logos/5937.png" catchup="vod",National Geographic Wild
-http://176.120.107.196:7865/play/a01d
+http://5.38.198.105:8001/play/a01j
 
 #EXTINF:-1 tvg-name="Viasat Nature" tvg-id="7073-viasatnature" tvg-logo="http://onlinestream.live/logos/7073.png" catchup="vod",Viasat Nature
 http://80.96.25.163:7878/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-name="Viasat Explore" tvg-id="7156-viasatexplore" tvg-logo="http://onlinestream.live/logos/7156.png" catchup="vod",Viasat Explore
-http://176.120.107.196:7865/play/a00l
-
-#EXTINF:-1 tvg-name="CBS Reality" tvg-id="7155-cbsreality" tvg-logo="http://onlinestream.live/logos/7155.png" catchup="vod",CBS Reality
-http://176.120.107.196:7865/play/a02q
+http://5.38.198.105:8001/play/a025
 
 #EXTINF:-1 tvg-name="Sláger TV" tvg-id="6159-slagertv" tvg-logo="http://onlinestream.live/logos/6159.png" catchup="vod",Sláger TV
 http://5.38.198.105:8001/play/slager
-
-#EXTINF:-1 tvg-name="Zenebutik" tvg-id="6162-zenebutik" tvg-logo="http://onlinestream.live/logos/6162.png" catchup="vod",Zenebutik
-http://176.120.107.196:7865/play/a00r
 
 #EXTINF:-1 tvg-name="AXN White" tvg-id="7091-axnwhite" tvg-logo="http://onlinestream.live/logos/7091.png" catchup="vod",AXN White
 http://80.96.25.163:7878/play/a03u/index.m3u8
@@ -157,7 +142,7 @@ http://80.96.25.163:7878/play/a03u/index.m3u8
 http://80.96.25.163:7878/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-id="6768-discoverychannel" tvg-logo="http://onlinestream.live/logos/6768.png" catchup="vod",Discovery Channel
-http://176.120.107.196:7865/play/a02b
+http://5.38.198.105:8001/play/a03m
 
 #EXTINF:-1 tvg-name="Viasat 3" tvg-id="5911-viasat3" tvg-logo="http://onlinestream.live/logos/5911.png" catchup="vod",Viasat 3
 http://5.38.198.105:8001/play/a044
@@ -169,7 +154,7 @@ http://5.38.198.105:8001/play/a043
 http://5.38.198.105:8001/play/a04t
 
 #EXTINF:-1 tvg-name="Viasat History" tvg-id="6745-viasathistory" tvg-logo="http://onlinestream.live/logos/6745.png" catchup="vod",Viasat History SD
-http://176.120.107.196:7865/play/a00j
+http://5.38.198.105:8001/play/viasathistory
 
 #EXTINF:-1 tvg-name="Pesti TV" tvg-id="6658-pestitv" tvg-logo="http://onlinestream.live/logos/6658.png" catchup="vod",Pesti TV
 http://152.66.115.226:33390/bysid/206
@@ -193,13 +178,13 @@ http://5.38.198.105:8001/play/filmboxpremium
 http://5.38.198.105:8001/play/a040
 
 #EXTINF:-1 tvg-name="TV2 Comedy" tvg-id="7060-tv2comedy" tvg-logo="http://onlinestream.live/logos/7060.png" catchup="vod",TV2 Comedy
-http://176.120.107.196:7865/play/a00q
+http://5.38.198.105:8001/play/tv2comedy
 
 #EXTINF:-1 tvg-name="TV2 Séf" tvg-id="7087-tv2sef" tvg-logo="http://onlinestream.live/logos/7087.png" catchup="vod",TV2 Séf
-http://176.120.107.196:7865/play/a00g
+http://5.38.198.105:8001/play/tv2sef
 
 #EXTINF:-1 tvg-name="JimJam" tvg-id="7080-jimjam" tvg-logo="http://onlinestream.live/logos/7080.png" catchup="vod",JimJam
-http://176.120.107.196:7865/play/a00x
+http://5.38.198.105:8001/play/jimjam
 
 #EXTINF:-1 tvg-name="Epic Drama" tvg-id="7157-epicdrama" tvg-logo="http://onlinestream.live/logos/7157.png" catchup="vod",Epic Drama
 http://80.96.25.163:7878/play/a039/index.m3u8
@@ -208,19 +193,16 @@ http://80.96.25.163:7878/play/a039/index.m3u8
 http://5.38.198.105:8001/play/cinemaxhd
 
 #EXTINF:-1 tvg-name="Cinemax 2" tvg-id="7161-cinemax2" tvg-logo="http://onlinestream.live/logos/7161.png" catchup="vod",Cinemax 2
-http://176.120.107.196:7865/play/a02y
+http://92.240.234.211:4511/
 
 #EXTINF:-1 tvg-name="ATV Spirit" tvg-id="7304-atvspirit" tvg-logo="http://onlinestream.live/logos/7304.png" catchup="vod",ATV Spirit
 http://5.38.198.105:8001/play/atvspirit
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="7306-cartoonnetwork" tvg-logo="http://onlinestream.live/logos/7306.png" catchup="vod",Cartoon Network
-http://176.120.107.196:7865/play/a00f
 
 #EXTINF:-1 tvg-name="History HD" tvg-id="7325-history" tvg-logo="http://onlinestream.live/logos/7325.png" catchup="vod",History
 http://80.96.25.163:7878/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-name="Minimax" tvg-id="7079-minimax" tvg-logo="http://onlinestream.live/logos/7079.png" catchup="vod",Minimax
-http://176.120.107.196:7865/play/a01w
+http://5.38.198.105:8001/play/minimax
 
 #EXTINF:-1 tvg-name="Boomerang" tvg-id="6703-boomerang" tvg-logo="http://onlinestream.live/logos/6703.png" catchup="vod",Boomerang
 http://80.96.25.163:7878/play/a04l/index.m3u8
@@ -244,7 +226,7 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 http://152.66.115.226:33390/bysid/205
 
 #EXTINF:-1 tvg-name="Fishing & Hunting" tvg-id="5922-fishing&hunting" tvg-logo="http://onlinestream.live/logos/5922.png" catchup="vod",Fishing & Hunting
-http://176.120.107.196:7865/play/a01y
+http://5.38.198.105:8001/play/fish
 
 #EXTINF:-1 tvg-name="Hit Music Channel" tvg-id="5697-hitmusicchannel" tvg-logo="http://onlinestream.live/logos/5697.png" catchup="vod",Hit Music Channel
 http://hitmusic.hu:80/hitmusic.m3u8
@@ -282,9 +264,6 @@ https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u
 #EXTINF:-1 tvg-name="MinDig TV Plusz Info" tvg-id="6504-mindigtvpluszinfo" tvg-logo="http://onlinestream.live/logos/6504.png" catchup="vod",MinDig TV Plusz Info
 http://152.66.115.226:33390/bysid/208
 
-#EXTINF:-1 tvg-name="Comedy Central Family" tvg-id="7423-comedycentralfamily" tvg-logo="" catchup="vod",Comedy Central Family
-http://176.120.107.196:7865/play/a02e
-
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id="7567-bbcearth" tvg-logo="" catchup="vod",BBC Earth
 http://77.89.204.105:8003/play/a00b/index.m3u8
 
@@ -294,14 +273,11 @@ http://5.38.198.105:8001/play/a04q
 #EXTINF:-1 tvg-name="Travel HD" tvg-id="7569-travel" tvg-logo="" catchup="vod",Travel
 http://5.38.198.105:8001/play/a04p
 
-#EXTINF:-1 tvg-name="DIGI World" tvg-id="8122-digiworld" tvg-logo="" catchup="vod",DIGI World
-http://176.120.107.196:7865/play/a009
-
 #EXTINF:-1 tvg-name="Paramount Channel HD" tvg-id="8123-paramountchannel" tvg-logo="" catchup="vod",Paramount Channel
-http://176.120.107.196:7865/play/a02d
+http://5.38.198.105:8001/play/a03z
 
 #EXTINF:-1 tvg-name="Ozone Network" tvg-id="8124-ozonenetwork" tvg-logo="" catchup="vod",Ozone Network
-http://176.120.107.196:7865/play/a01r
+http://5.38.198.105:8001/play/ozone
 
 #EXTINF:-1 tvg-name="Webcentrum Online" tvg-id="8125-webcentrumonline" tvg-logo="" catchup="vod",Webcentrum Online
 https://s14.ssl-stream.com:3478/stream/play.m3u8
