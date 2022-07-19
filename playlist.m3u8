@@ -46,7 +46,7 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.gq:443/hirtv_delayed/0IjMxYDMxkTM.m3u8
+https://player.mediaklikk.gq:443/hirtv_delayed/0IjMxYDNxkTM.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
 http://213.81.201.113:8082/bysid/31223
@@ -119,9 +119,6 @@ https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u
 
 #EXTINF:-1 tvg-name="MinDig TV Plusz Info" tvg-id="6504-mindigtvpluszinfo" tvg-logo="http://onlinestream.live/logos/6504.png" catchup="vod",MinDig TV Plusz Info
 http://152.66.115.226:33390/bysid/208
-
-#EXTINF:-1 tvg-name="Mise TV" tvg-id="6667-misetv" tvg-logo="http://onlinestream.live/logos/6667.png" catchup="vod",Mise TV
-https://cstream.eu:8443/live/mise/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id="7567-bbcearth" tvg-logo="" catchup="vod",BBC Earth
 http://77.89.204.105:8003/play/a00b/index.m3u8
