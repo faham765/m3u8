@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="M1 HD" tvg-id="5901-m1" tvg-logo="http://onlinestream.live/logos/5901.png" catchup="vod",M1
-https://streaming.mytvback.com:443/stream/kSdXUmTb6E3Msw8xpKUwEA/1659777093/channel001/stream.m3u8
+https://streaming.mytvback.com:443/stream/uyp1UGwPs3iRBt3SN83yjw/1659787898/channel001/stream.m3u8
 
 #EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-id="5902-m2/petofitv" tvg-logo="http://onlinestream.live/logos/5902.png" catchup="vod",M2 / Petőfi
-https://streaming.mytvback.com:443/stream/EbbfHRrNBWeYethwQ2nxig/1659777068/channel002/stream.m3u8
+https://streaming.mytvback.com:443/stream/rLa1nVh2KQW_uu85td7IWQ/1659787911/channel002/stream.m3u8
 
 #EXTINF:-1 tvg-name="M4 Sport HD" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" catchup="vod",M4 Sport
-https://streaming.mytvback.com:443/stream/ADbk3eELuiKlV9ZQyIp0fw/1659777062/channel005/stream.m3u8
+https://streaming.mytvback.com:443/stream/q2vSsXv8MXMSp6VWUaK1VA/1659787868/channel005/stream.m3u8
 
 #EXTINF:-1 tvg-name="M5 HD" tvg-id="5904-m5" tvg-logo="http://onlinestream.live/logos/5904.png" catchup="vod",M5
 https://streaming.mytvback.com:443/channel006/stream.m3u8
 
 #EXTINF:-1 tvg-name="Duna HD" tvg-id="5905-duna" tvg-logo="http://onlinestream.live/logos/5905.png" catchup="vod",Duna
-https://streaming.mytvback.com:443/stream/mLCY3uTTKt43ul56KvENHw/1659777117/channel003/stream.m3u8
+https://streaming.mytvback.com:443/stream/mvj5gluMkv8cadpojricmA/1659787892/channel003/stream.m3u8
 
 #EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" catchup="vod",Duna World
-https://streaming.mytvback.com:443/stream/sxz4COR8vZFHW-PCPBJjOQ/1659777099/channel004/stream.m3u8
+https://streaming.mytvback.com:443/stream/xcyDhfmySfXSElMayTFKuQ/1659787861/channel004/stream.m3u8
 
 #EXTINF:-1 tvg-name="TV2 HD" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" catchup="vod",TV2
 http://152.66.115.226:33390/bysid/202
 
 #EXTINF:-1 tvg-name="FEM3" tvg-id="6455-fem3" tvg-logo="http://onlinestream.live/logos/6455.png" catchup="vod",FEM3
-https://streaming.mytvback.com:443/stream/5va4O8XEn9jd3bixOlJVgw/1659777080/channel016/stream.m3u8
+https://streaming.mytvback.com:443/stream/s6Q87XGrH8Y8mL74--pcJw/1659787886/channel016/stream.m3u8
 
 #EXTINF:-1 tvg-name="RTL Klub HD" tvg-id="6141-rtlklub" tvg-logo="http://onlinestream.live/logos/6141.png" catchup="vod",RTL Klub
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
@@ -49,13 +49,13 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.gq:443/hirtv_delayed/yITM3QjN.m3u8
+https://player.mediaklikk.gq:443/hirtv_delayed/yITM3YjN.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
 http://213.81.201.113:8082/bysid/31223
 
 #EXTINF:-1 tvg-name="Life TV" tvg-id="6603-lifetv" tvg-logo="http://onlinestream.live/logos/6603.png" catchup="vod",LifeTv
-https://streaming.mytvback.com:443/stream/QXHHZG8AogKwmsxYDjcY1g/1659777087/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/R8ukqV39HKeqS6i-tref2A/1659787917/channel043/stream.m3u8
 
 #EXTINF:-1 tvg-name="HBO HD" tvg-id="7069-hbo" tvg-logo="http://onlinestream.live/logos/7069.png" catchup="vod",HBO
 http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
@@ -64,7 +64,7 @@ http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
 http://152.66.115.226:33390/bysid/207
 
 #EXTINF:-1 tvg-name="Zenebutik" tvg-id="6162-zenebutik" tvg-logo="http://onlinestream.live/logos/6162.png" catchup="vod",Zenebutik
-https://streaming.mytvback.com:443/stream/Hg03UtGAlBvUP5URxSRB3w/1659777111/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/-xFo1yvhAikBrdqGp1y2rw/1659787880/channel049/stream.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-id="6768-discoverychannel" tvg-logo="http://onlinestream.live/logos/6768.png" catchup="vod",Discovery Channel
 http://213.151.233.20:8000/dna-6179-tv-pc.m3u8
@@ -101,9 +101,6 @@ http://hitmusic.hu:80/hitmusic.m3u8
 
 #EXTINF:-1 tvg-name="Muzsika TV" tvg-id="6151-muzsikatv" tvg-logo="http://onlinestream.live/logos/6151.png" catchup="vod",Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
-
-#EXTINF:-1 tvg-name="DragonHall+ TV" tvg-id="6606-dragonhall+tv" tvg-logo="http://onlinestream.live/logos/6606.png" catchup="vod",DragonHall+ TV
-https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 
 #EXTINF:-1 tvg-name="Music Channel" tvg-id="5646-musicchannel" tvg-logo="http://onlinestream.live/logos/5646.png" catchup="vod",Music Channel
 http://1music.hu:80/1music.m3u8
