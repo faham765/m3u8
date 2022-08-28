@@ -46,13 +46,19 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.gq:443/hirtv_delayed/00gMyEzN2gjM.m3u8
+https://player.mediaklikk.gq:443/hirtv_delayed/0IjMxcDMxgjM.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
 http://213.81.201.113:8082/bysid/31223
 
 #EXTINF:-1 tvg-name="Spektrum Home" tvg-id="6589-spektrumhome" tvg-logo="http://onlinestream.live/logos/6589.png" catchup="vod",Spektrum Home
 http://152.66.115.226:33390/bysid/207
+
+#EXTINF:-1 tvg-name="Filmbox" tvg-id="7092-filmbox" tvg-logo="http://onlinestream.live/logos/7092.png" catchup="vod",Filmbox
+http://185.186.81.78:8002/play/a0al
+
+#EXTINF:-1 tvg-name="Filmbox Family" tvg-id="7077-filmboxfamily" tvg-logo="http://onlinestream.live/logos/7077.png" catchup="vod",Filmbox Family
+http://185.186.81.78:8002/play/a0ak
 
 #EXTINF:-1 tvg-name="Classics TV" tvg-id="7242-classicstv" tvg-logo="http://onlinestream.live/logos/7242.png" catchup="vod",Classics TV
 https://s03.diazol.hu:7152/hls/live.m3u8
