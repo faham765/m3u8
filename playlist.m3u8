@@ -66,9 +66,6 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1 tvg-name="Dikh TV" tvg-id="6424-dikhtv" tvg-logo="http://onlinestream.live/logos/6424.png" catchup="vod",Dikh TV
 http://152.66.115.226:33390/bysid/205
 
-#EXTINF:-1 tvg-name="Hit Music Channel" tvg-id="5697-hitmusicchannel" tvg-logo="http://onlinestream.live/logos/5697.png" catchup="vod",Hit Music Channel
-http://hitmusic.hu:80/hitmusic.m3u8
-
 #EXTINF:-1 tvg-name="Muzsika TV" tvg-id="6151-muzsikatv" tvg-logo="http://onlinestream.live/logos/6151.png" catchup="vod",Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
 
