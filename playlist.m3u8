@@ -7,7 +7,7 @@ http://152.66.115.226:33391/bysid/100
 http://152.66.115.226:33390/bysid/200
 
 #EXTINF:-1 tvg-name="M3" tvg-id="5931-m3" tvg-logo="http://onlinestream.live/logos/5931.png" catchup="vod",M3
-https://player.mediaklikk.org:443/m3/0IjMxgDMxQTM.m3u8
+https://player.mediaklikk.org:443/m3/0IjMxgDNxQTM.m3u8
 
 #EXTINF:-1 tvg-name="M4 Sport HD" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" catchup="vod",M4 Sport
 http://152.66.115.226:33391/bysid/101
@@ -49,7 +49,7 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.org:443/hirtv/0IjMxgDMxQTM.m3u8
+https://player.mediaklikk.org:443/hirtv/0IjMxgDNxQTM.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
 http://213.81.201.113:8082/bysid/31223
@@ -83,9 +83,6 @@ http://195.56.44.163:1935/live/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hatoscsatorna" tvg-id="4874-hatoscsatorna" tvg-logo="http://onlinestream.live/logos/4874.png" catchup="vod",Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Bábolna TV" tvg-id="5258-babolnatv" tvg-logo="http://onlinestream.live/logos/5258.png" catchup="vod",Bábolna TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Vásárhelyi Televízió" tvg-id="5656-vasarhelyitelevizio" tvg-logo="http://onlinestream.live/logos/5656.png" catchup="vod",Vásárhelyi Televízió
 https://stream.vasarhelyitelevizio.hu:443/stream/stream.m3u8
