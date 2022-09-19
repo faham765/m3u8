@@ -7,7 +7,7 @@ http://152.66.115.226:33391/bysid/100
 http://152.66.115.226:33390/bysid/200
 
 #EXTINF:-1 tvg-name="M3" tvg-id="5931-m3" tvg-logo="http://onlinestream.live/logos/5931.png" catchup="vod",M3
-https://player.mediaklikk.org:443/m3/0IjMxgDMxkTM.m3u8
+https://player.mediaklikk.org:443/m3/0IjMxgDNxkTM.m3u8
 
 #EXTINF:-1 tvg-name="M4 Sport HD" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" catchup="vod",M4 Sport
 http://152.66.115.226:33391/bysid/101
@@ -48,9 +48,6 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 #EXTINF:-1 tvg-name="ATV HD" tvg-id="4739-atv" tvg-logo="http://onlinestream.live/logos/4739.png" catchup="vod",ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.org:443/hirtv_delayed/0IjMxgDMxkTM.m3u8
-
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
 http://213.81.201.113:8082/bysid/31223
 
@@ -61,7 +58,7 @@ http://152.66.115.226:33390/bysid/207
 https://s03.diazol.hu:7152/hls/live.m3u8
 
 #EXTINF:-1 tvg-name="Balaton TV" tvg-id="5913-balatontv" tvg-logo="http://onlinestream.live/logos/5913.png" catchup="vod",Balaton TV
-http://45.14.11.3:8000/udp/238.42.0.1:1234
+https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 
 #EXTINF:-1 tvg-name="Dikh TV" tvg-id="6424-dikhtv" tvg-logo="http://onlinestream.live/logos/6424.png" catchup="vod",Dikh TV
 http://152.66.115.226:33390/bysid/205
