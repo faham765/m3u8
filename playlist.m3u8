@@ -7,7 +7,7 @@ http://152.66.115.226:33391/bysid/100
 http://152.66.115.226:33390/bysid/200
 
 #EXTINF:-1 tvg-name="M3" tvg-id="5931-m3" tvg-logo="http://onlinestream.live/logos/5931.png" catchup="vod",M3
-https://player.mediaklikk.org:443/m3/00gMyETO3QTM.m3u8
+https://player.mediaklikk.org:443/m3/0IjMxkDMxQTM.m3u8
 
 #EXTINF:-1 tvg-name="M4 Sport HD" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" catchup="vod",M4 Sport
 http://152.66.115.226:33391/bysid/101
@@ -49,7 +49,7 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.org:443/hirtv/00gMyETO3QTM.m3u8
+https://player.mediaklikk.org:443/hirtv/0IjMxkDMxQTM.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
 http://213.81.201.113:8082/bysid/31223
