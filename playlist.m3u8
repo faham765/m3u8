@@ -25,19 +25,19 @@ http://152.66.115.226:33391/bysid/103
 ://
 
 #EXTINF:-1 tvg-name="TV2 HD" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" catchup="vod",TV2
-https://cdn.mediaklikk.org:443/tv2/yITMxEDMyYjM
+https://cdn.mediaklikk.org:443/tv2/0IjMxETMxcjM
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="6141-rtl" tvg-logo="http://onlinestream.live/logos/6141.png" catchup="vod",RTL
-https://cdn.mediaklikk.org:443/rtl/yITMxEDMyYjM
+https://cdn.mediaklikk.org:443/rtl/0IjMxETMxcjM
 
 #EXTINF:-1 tvg-name="ATV HD" tvg-id="4739-atv" tvg-logo="http://onlinestream.live/logos/4739.png" catchup="vod",ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.org:443/hirtv_delayed/yITMxETMyYjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/0IjMxETMxcjM.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
-https://cdn.mediaklikk.org:443/izaura/yITMxEDMyYjM
+https://cdn.mediaklikk.org:443/izaura/0IjMxETMxcjM
 
 #EXTINF:-1 tvg-name="Spektrum Home" tvg-id="6589-spektrumhome" tvg-logo="http://onlinestream.live/logos/6589.png" catchup="vod",Spektrum Home
 http://152.66.115.226:33390/bysid/207
