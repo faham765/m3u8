@@ -25,13 +25,13 @@ http://152.66.115.226:33391/bysid/103
 ://
 
 #EXTINF:-1 tvg-name="TV2 HD" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" catchup="vod",TV2
-https://cdn.mediaklikk.org:443/tv2/00wMyEDMxIDO
+https://cdn.mediaklikk.org:443/tv2/zITMwETO
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="6141-rtl" tvg-logo="http://onlinestream.live/logos/6141.png" catchup="vod",RTL
-https://cdn.mediaklikk.org:443/rtl/00wMyEDMxIDO
+https://cdn.mediaklikk.org:443/rtl/zITMwETO
 
 #EXTINF:-1 tvg-name="Max4" tvg-id="8714-max4" tvg-logo="http://onlinestream.live/logos/8714.png" catchup="vod",Max4
-https://cdn.mediaklikk.org:443/max4/00wMyEDMxIDO
+https://cdn.mediaklikk.org:443/max4/zITMwETO
 
 #EXTINF:-1 tvg-name="Film4" tvg-id="6254-film4" tvg-logo="http://onlinestream.live/logos/6254.png" catchup="vod",Film4
 http://193.33.39.107:8088/film4/index.m3u8
@@ -40,10 +40,10 @@ http://193.33.39.107:8088/film4/index.m3u8
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMxIDO.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/zITMwETO.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
-https://cdn.mediaklikk.org:443/izaura/00wMyEDMxIDO
+https://cdn.mediaklikk.org:443/izaura/zITMwETO
 
 #EXTINF:-1 tvg-name="HBO HD" tvg-id="7069-hbo" tvg-logo="http://onlinestream.live/logos/7069.png" catchup="vod",HBO
 http://193.33.39.107:8088/hbo/index.m3u8
