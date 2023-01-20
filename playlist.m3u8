@@ -25,22 +25,22 @@ http://152.66.115.226:33391/bysid/103
 ://
 
 #EXTINF:-1 tvg-name="TV2 HD" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" catchup="vod",TV2
-https://cdn.mediaklikk.org:443/tv2/0MjMxATMykTM
+https://cdn.mediaklikk.org:443/tv2/00wMyEDMxAjM
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="6141-rtl" tvg-logo="http://onlinestream.live/logos/6141.png" catchup="vod",RTL
-https://cdn.mediaklikk.org:443/rtl/0MjMxATMykTM
+https://cdn.mediaklikk.org:443/rtl/00wMyEDMyAjM
 
 #EXTINF:-1 tvg-name="Max4" tvg-id="8714-max4" tvg-logo="http://onlinestream.live/logos/8714.png" catchup="vod",Max4
-https://cdn.mediaklikk.org:443/max4/0MjMxATMykTM
+https://cdn.mediaklikk.org:443/max4/00wMyEDMyAjM
 
 #EXTINF:-1 tvg-name="ATV HD" tvg-id="4739-atv" tvg-logo="http://onlinestream.live/logos/4739.png" catchup="vod",ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" catchup="vod",HirTV
-https://player.mediaklikk.org:443/hirtv_delayed/0MjMxATMykTM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMyAjM.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" catchup="vod",Izaura TV
-https://cdn.mediaklikk.org:443/izaura/0MjMxATMykTM
+https://cdn.mediaklikk.org:443/izaura/00wMyEDMyAjM
 
 #EXTINF:-1 tvg-name="Spektrum Home" tvg-id="6589-spektrumhome" tvg-logo="http://onlinestream.live/logos/6589.png" catchup="vod",Spektrum Home
 http://152.66.115.226:33390/bysid/207
