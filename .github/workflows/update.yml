@@ -28,6 +28,7 @@ jobs:
         git config --local user.email ${{ secrets.GIT_EMAIL }}
         git config --local user.name ${{ secrets.GIT_NAME }}
         git add playlist.m3u8
+        git checkout HEAD^ playlist.m3u8
         git pull 
         git commit -am "Updated List"
     - name: Push changes
