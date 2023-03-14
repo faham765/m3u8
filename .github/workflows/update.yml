@@ -21,15 +21,17 @@ jobs:
     - run: curl -s -L ${{secrets.UPDATER}} -o updater.py
     - run: curl -s -L ${{secrets.TXT1}} -o txt1.txt
     - run: curl -s -L ${{secrets.TXT2}} -o txt2.txt
+    - name: Pull files
+      run: |
+        git config --local user.email ${{ secrets.GIT_EMAIL }}
+        git config --local user.name ${{ secrets.GIT_NAME }}
+        git pull
+    - run: rm playlist.m3u8
     - run: python updater.py
     - run: rm txt1.txt txt2.txt updater.py
     - name: Commit files
       run: |
-        git config --local user.email ${{ secrets.GIT_EMAIL }}
-        git config --local user.name ${{ secrets.GIT_NAME }}
         git add playlist.m3u8
-        git checkout HEAD^ playlist.m3u8
-        git pull 
         git commit -am "Updated List"
     - name: Push changes
       uses: ad-m/github-push-action@master
